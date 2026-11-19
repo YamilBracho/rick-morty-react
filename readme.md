@@ -1,6 +1,9 @@
 Rick & Mortis charactter catalog.
-React application
+Retrieves all characters and show them in a grid using    
+    - React 
     - custom hooks
     - services
     - tanStack usage
-    
+    - tailwind
+    - typescript
+
